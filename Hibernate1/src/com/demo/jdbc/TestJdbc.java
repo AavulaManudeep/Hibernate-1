@@ -25,7 +25,7 @@ public class TestJdbc {
 //		
 //		String url = "jdbc:mysql://localhost:3306/testdb?useSSL=false";
 //		String user = "manu";
-//		String pass = "nikonD3200";
+//		String pass = "Password";
 //		try {
 //			System.out.println("Connection Database :"+ url);
 //			Connection myConnection= DriverManager.getConnection(url,user,pass);
